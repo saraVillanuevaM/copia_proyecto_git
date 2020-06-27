@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Mastercambio
+=======
+Hola master
+brach
+>>>>>>> branch1
